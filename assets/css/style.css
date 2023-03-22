@@ -97,20 +97,14 @@ transform: scale(1);
     letter-spacing: 4px;
 
     width: 300px;
-    height: 200px 
-
+    height: 200px;
     padding-top: 40px;
     padding-left: 10px;
-
-    background-color:  rgba(241, 109, 107, .7)
-
-    bottom: 30px
-    right: 150px
-
+    background-color:  rgba(241, 109, 107, .7);
+    bottom: 30px;
+    right: 150px;
     position: absolute;
-
 }
-
 
 /*club ethos*/
 
@@ -178,14 +172,14 @@ text-align: right;
     height: 300px;
     padding: 30px;
     border-style: solid;
-    border-color: #ccc
+    border-color: #ccc;
     border-width: 1px; 
     border-radius: 50%;
     margin: 0 auto; 
 }
 
 #circle-cover-bg {
-    background: url(../css/images/ethos-center-image.jpg)
+    background: url(../css/images/ethos-center-image.jpg);
     height: 100%;
-    border-radius: 50%
+    border-radius: 50%;
 }
