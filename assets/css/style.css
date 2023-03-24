@@ -184,7 +184,6 @@ text-align: right;
     border-radius: 50%;
 }
 
-/* Event times */
 #times {
-   background-image: url(../css/images/dublin-city.webp);
+   background-image: url('../css/images/dublin-city.webp');
 }
